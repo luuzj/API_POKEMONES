@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Pokédex | Pokémon Explorer",
+  "short_name": "Pokédex",
+  "description": "Busca Pokémon con la PokéAPI y consulta sus características, tipos y habilidades.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9e8",
+  "theme_color": "#101322",
+  "icons": [
+    {
+      "src": "./images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
